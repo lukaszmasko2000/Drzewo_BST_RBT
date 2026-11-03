@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Drzewo_BST/Drzewo_BST.vcxproj" Id="d2977aea-b4a1-4b40-9fc7-4d00810667a1" />
+</Solution>
